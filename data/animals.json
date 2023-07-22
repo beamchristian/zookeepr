@@ -1,74 +1,179 @@
 {
-  "animals": [
-    {
-      "id": "0",
-      "name": "Spindle",
-      "species": "bear",
-      "diet": "omnivore",
-      "personalityTraits": ["hungry", "zany", "loving"]
-    },
-    {
-      "id": "1",
-      "name": "Terry",
-      "species": "gorilla",
-      "diet": "folivore",
-      "personalityTraits": ["anxious", "goofy"]
-    },
-    {
-      "id": "2",
-      "name": "Erica",
-      "species": "gorilla",
-      "diet": "folivore",
-      "personalityTraits": ["quirky", "rash"]
-    },
-    {
-      "id": "3",
-      "name": "Noel",
-      "species": "bear",
-      "diet": "omnivore",
-      "personalityTraits": ["impish", "sassy", "brave"]
-    },
-    {
-      "id": "4",
-      "name": "Coco",
-      "species": "penguin",
-      "diet": "piscivore",
-      "personalityTraits": ["loving", "goofy"]
-    },
-    {
-      "id": "5",
-      "name": "Marcy",
-      "species": "ostrich",
-      "diet": "omnivore",
-      "personalityTraits": ["hungry", "goofy"]
-    },
-    {
-      "id": "6",
-      "name": "Bodhi",
-      "species": "Doggo",
-      "diet": "omnivore",
-      "personalityTraits": ["zany"]
-    },
-    {
-      "id": "7",
-      "name": "Cassie",
-      "species": "Doggo",
-      "diet": "omnivore",
-      "personalityTraits": ["hungry", "zany", "goofy"]
-    },
-    {
-      "id": "8",
-      "name": "Roxy",
-      "species": "Quokka",
-      "diet": "herbivore",
-      "personalityTraits": ["loving"]
-    },
-    {
-      "id": "9",
-      "name": "Tamara",
-      "species": "Tiger",
-      "diet": "carnivore",
-      "personalityTraits": ["hungry"]
-    }
-  ]
+	"animals": [
+		{
+			"id": "0",
+			"name": "Spindle",
+			"species": "bear",
+			"diet": "omnivore",
+			"personalityTraits": ["hungry", "zany", "loving"]
+		},
+		{
+			"id": "1",
+			"name": "Terry",
+			"species": "gorilla",
+			"diet": "folivore",
+			"personalityTraits": ["anxious", "goofy"]
+		},
+		{
+			"id": "2",
+			"name": "Erica",
+			"species": "gorilla",
+			"diet": "folivore",
+			"personalityTraits": ["quirky", "rash"]
+		},
+		{
+			"id": "3",
+			"name": "Noel",
+			"species": "bear",
+			"diet": "omnivore",
+			"personalityTraits": ["impish", "sassy", "brave"]
+		},
+		{
+			"id": "4",
+			"name": "Coco",
+			"species": "penguin",
+			"diet": "piscivore",
+			"personalityTraits": ["loving", "goofy"]
+		},
+		{
+			"id": "5",
+			"name": "Marcy",
+			"species": "ostrich",
+			"diet": "omnivore",
+			"personalityTraits": ["hungry", "goofy"]
+		},
+		{
+			"id": "6",
+			"name": "Bodhi",
+			"species": "Doggo",
+			"diet": "omnivore",
+			"personalityTraits": ["zany"]
+		},
+		{
+			"id": "7",
+			"name": "Cassie",
+			"species": "Doggo",
+			"diet": "omnivore",
+			"personalityTraits": ["hungry", "zany", "goofy"]
+		},
+		{
+			"id": "8",
+			"name": "Roxy",
+			"species": "Quokka",
+			"diet": "herbivore",
+			"personalityTraits": ["loving"]
+		},
+		{
+			"id": "9",
+			"name": "Tamara",
+			"species": "Tiger",
+			"diet": "carnivore",
+			"personalityTraits": ["hungry"]
+		},
+		{
+			"id": "10",
+			"name": "Milo",
+			"species": "cat",
+			"diet": "carnivore",
+			"personalityTraits": ["curious", "playful"]
+		},
+		{
+			"id": "11",
+			"name": "Polly",
+			"species": "parrot",
+			"diet": "herbivore",
+			"personalityTraits": ["loud", "social"]
+		},
+		{
+			"id": "12",
+			"name": "Max",
+			"species": "elephant",
+			"diet": "herbivore",
+			"personalityTraits": ["wise", "gentle"]
+		},
+		{
+			"id": "13",
+			"name": "Sammy",
+			"species": "squirrel",
+			"diet": "herbivore",
+			"personalityTraits": ["energetic", "nervous"]
+		},
+		{
+			"id": "14",
+			"name": "Oliver",
+			"species": "owl",
+			"diet": "carnivore",
+			"personalityTraits": ["nocturnal", "quiet"]
+		},
+		{
+			"id": "15",
+			"name": "Daisy",
+			"species": "koala",
+			"diet": "herbivore",
+			"personalityTraits": ["lazy", "friendly"]
+		},
+		{
+			"id": "16",
+			"name": "Luna",
+			"species": "fox",
+			"diet": "omnivore",
+			"personalityTraits": ["sly", "curious"]
+		},
+		{
+			"id": "17",
+			"name": "Maddie",
+			"species": "dolphin",
+			"diet": "piscivore",
+			"personalityTraits": ["smart", "playful"]
+		},
+		{
+			"id": "18",
+			"name": "Jasper",
+			"species": "rabbit",
+			"diet": "herbivore",
+			"personalityTraits": ["timid", "quick"]
+		},
+		{
+			"id": "19",
+			"name": "Shadow",
+			"species": "wolf",
+			"diet": "carnivore",
+			"personalityTraits": ["pack-oriented", "loyal"]
+		},
+		{
+			"id": "20",
+			"name": "Freddie",
+			"species": "platypus",
+			"diet": "omnivore",
+			"personalityTraits": ["quirky", "unique"]
+		},
+		{
+			"id": "21",
+			"name": "Holly",
+			"species": "hedgehog",
+			"diet": "insectivore",
+			"personalityTraits": ["shy", "defensive"]
+		},
+		{
+			"id": "22",
+			"name": "Dexter",
+			"species": "beaver",
+			"diet": "herbivore",
+			"personalityTraits": ["industrious", "social"]
+		},
+		{
+			"id": "23",
+			"name": "Molly",
+			"species": "giraffe",
+			"diet": "herbivore",
+			"personalityTraits": ["graceful", "quiet"]
+		},
+		{
+			"id": "24",
+			"name": "Leo",
+			"species": "lion",
+			"diet": "carnivore",
+			"personalityTraits": ["proud", "strong"]
+		}
+	]
 }
